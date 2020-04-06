@@ -1,0 +1,88 @@
+.mainHeader {
+    text-align: center !important;
+    margin-bottom: 20px;
+
+}
+
+.grid-right {
+    margin-right: 5%;
+}
+
+.grid-left {
+    margin-left: 1%;
+}
+
+
+.grid {
+    width: 98%;
+    height: 100%;
+}
+
+.product-grid {
+    width: 100%;
+    height: 100%;
+}
+
+.products-grid {
+    margin: 20px;
+}
+
+#reptile-jumbo {
+    background-image: url("images/snake.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: -50% 160%;
+    background-size: cover;
+    color: white;
+    margin-bottom: 0;
+    height: 250px;
+    
+}
+
+.float-down {
+    margin-bottom: 0;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#reptile-header {
+    font-size: 72px;
+}
+
+.nav-centered {
+    font-size: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.python-card {
+    width: 90%;
+    height: 200px;
+    margin: 5%;
+}
+
+
+#price {
+    float: right;
+}
+
+.card {
+    margin-bottom: 20px;
+    border: 0;
+    
+}
+
+.hidden {
+    display: none;
+}
+
+#nav-main {
+    font-size: 34px;
+    margin-bottom: -5px;
+}

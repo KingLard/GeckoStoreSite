@@ -27,7 +27,7 @@
     margin: 20px;
 }
 
-#reptile-jumbo {
+.snake-bg {
     background-image: url("images/snake.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -36,7 +36,19 @@
     color: white;
     margin-bottom: 0;
     height: 250px;
-    
+}
+
+
+
+.lizard-bg {
+    background-image: url("images/leafie.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 50%;
+    background-position: 80% -20%;
+    color: white;
+    margin-bottom: 0;
+    height: 250px;
 }
 
 .float-down {
@@ -82,7 +94,23 @@ h2 {
     display: none;
 }
 
+.second-nav {
+    margin-right: 43px;
+}
+
 #nav-main {
     font-size: 34px;
     margin-bottom: -5px;
+}
+
+#carousel1 {
+    background-image: url("images/snake.jpg");
+    /* background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: -50% 160%;
+    background-size: cover; */
+}
+
+.snake-message {
+    margin-top: 20px;
 }

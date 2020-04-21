@@ -41,11 +41,11 @@
 
 
 .lizard-bg {
-    background-image: url("images/leafie.jpg");
+    background-image: url("images/leaf-tail.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 100% 50%;
-    background-position: 80% -20%;
+    background-size: 100% 70%;
+    background-position: 50% -35%;
     color: white;
     margin-bottom: 0;
     height: 250px;
